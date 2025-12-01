@@ -1,0 +1,41 @@
+
+     List of students
+    name:anu
+    timestamp:11
+    status:Present
+    
+     List of students
+    name:divya
+    timestamp:6
+    status:Absent
+    
+    List of students
+    name:anu
+    timestamp:11
+    status:Present
+    
+    List of students
+    name:divya
+    timestamp:6
+    status:Absent
+    
+    List of students
+    name:anu
+    timestamp:11
+    status:Present
+    
+    List of students
+    name:divya
+    timestamp:6
+    status:Absent
+    
+    List of students
+    name:anu
+    timestamp:11
+    status:Present
+    
+    List of students
+    name:divya
+    timestamp:6
+    status:Absent
+    

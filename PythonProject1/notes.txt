@@ -1,0 +1,6 @@
+Welcome
+to
+the
+Python
+Training
+This is an appended line.
